@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-//Mencoba compile file .sol di web remix.ethereum.org
+//Mencoba compile file solidity di web remix.ethereum.org
 
 contract halloWorld{
     uint256 totalCoin;
