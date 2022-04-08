@@ -1,4 +1,4 @@
-Mencoba script contract di web scrypt.studio
+//Mencoba script contract di web scrypt.studio
 contract DemoP2PKH {
   Ripemd160 pubKeyHash;
 
